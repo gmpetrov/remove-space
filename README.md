@@ -1,6 +1,6 @@
 # remove-space
 
-> Replace filenames whitespaces by dashes
+> Replace filenames's whitespaces by dashes
 
 ```
 ls dir // output 'filename with whitespaces'
@@ -11,8 +11,8 @@ ls dir // output 'filename-with-whitespaces'
 # Install
 
 ```
-yarn global add remove-space
-// or npm install -g remove-space
+yarn global add @gmpetrov/remove-space
+// or npm install -g @gmpetrov/remove-space
 ```
 
 # Usage

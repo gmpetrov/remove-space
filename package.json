@@ -1,5 +1,5 @@
 {
-  "name": "remove-space",
+  "name": "@gmpetrov/remove-space",
   "version": "1.0.0",
   "description": "replace filenames's whitespace character",
   "main": "cli.js",
